@@ -176,6 +176,14 @@ navigation section ends here
     border-radius: 8px;
     padding: 0.7em;
 }
+.fact-icon-item>img{
+    transition: transform 2s ease 0.5s;
+}
+.fact-icon-item>img:hover{
+    transform: scale(1.5) rotate(-45deg) translate(20px);
+    width: 50%;
+    height: 50%;
+}
 .fact-icon-item>h4{
     color: #424242;
 }
