@@ -107,7 +107,7 @@ navigation section ends here
 }
 
 /*------------------------  
- feature sectio ends here
+ feature section ends here
 ------------------------*/
 /*------------------------  
  serve section starts here
@@ -268,6 +268,9 @@ footer>p{
     margin:0 auto;
     padding: 2.3em;
 }
+/*-------------------------------
+ media queary section starts here
+ -------------------------------*/
 @media only screen and (max-width:576px) {
     header{
         height: 55%;
@@ -335,4 +338,6 @@ footer>p{
         }     
     
     }
-    
+    /*-------------------------------
+    media queary section ends here
+    -------------------------------*/
